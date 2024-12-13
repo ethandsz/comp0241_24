@@ -1,0 +1,338 @@
+Log file created at: 2024/12/07 19:26:48
+Running on machine: DESKTOP-KIV0L0B
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20241207 19:26:48.406207 11976 misc.cc:44] 
+==============================================================================
+Feature extraction
+==============================================================================
+I20241207 19:26:48.407471 15676 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.407569  2840 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408053  4648 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408140 11628 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408218 14888 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408300 20236 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408383 19664 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.408463  3436 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 19:26:48.409092 20728 feature_extraction.cc:258] Processed file [1/39]
+I20241207 19:26:48.409128 20728 feature_extraction.cc:261]   Name:            INFO.log20241207-192249.4076
+E20241207 19:26:48.409141 20728 feature_extraction.cc:265] INFO.log20241207-192249.4076 BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:48.409763 20728 feature_extraction.cc:258] Processed file [2/39]
+I20241207 19:26:48.409779 20728 feature_extraction.cc:261]   Name:            INFO.log20241207-192331.19540
+E20241207 19:26:48.409789 20728 feature_extraction.cc:265] INFO.log20241207-192331.19540 BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:48.409825 20728 feature_extraction.cc:258] Processed file [3/39]
+I20241207 19:26:48.409838 20728 feature_extraction.cc:261]   Name:            INFO.log20241207-192414.19604
+E20241207 19:26:48.409846 20728 feature_extraction.cc:265] INFO.log20241207-192414.19604 BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:48.410787 20728 feature_extraction.cc:258] Processed file [4/39]
+I20241207 19:26:48.410816 20728 feature_extraction.cc:261]   Name:            database.db
+E20241207 19:26:48.410830 20728 feature_extraction.cc:265] database.db BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:48.417252 20728 feature_extraction.cc:258] Processed file [5/39]
+I20241207 19:26:48.417298 20728 feature_extraction.cc:261]   Name:            database.db-shm
+E20241207 19:26:48.417314 20728 feature_extraction.cc:265] database.db-shm BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:48.422389 20728 feature_extraction.cc:258] Processed file [6/39]
+I20241207 19:26:48.422417 20728 feature_extraction.cc:261]   Name:            database.db-wal
+E20241207 19:26:48.422428 20728 feature_extraction.cc:265] database.db-wal BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:49.874319 20728 feature_extraction.cc:258] Processed file [7/39]
+I20241207 19:26:49.874683 20728 feature_extraction.cc:261]   Name:            images/0001.png
+I20241207 19:26:49.874705 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:49.874722 20728 feature_extraction.cc:273]   Camera:          #2 - SIMPLE_RADIAL
+I20241207 19:26:49.874735 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:49.874756 20728 feature_extraction.cc:280]   Features:        5505
+I20241207 19:26:49.976095 20728 feature_extraction.cc:258] Processed file [8/39]
+I20241207 19:26:49.976193 20728 feature_extraction.cc:261]   Name:            images/0004.png
+I20241207 19:26:49.976209 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:49.976221 20728 feature_extraction.cc:273]   Camera:          #5 - SIMPLE_RADIAL
+I20241207 19:26:49.976237 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:49.976258 20728 feature_extraction.cc:280]   Features:        4918
+I20241207 19:26:50.039463 20728 feature_extraction.cc:258] Processed file [9/39]
+I20241207 19:26:50.039560 20728 feature_extraction.cc:261]   Name:            images/0003.png
+I20241207 19:26:50.039577 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.039589 20728 feature_extraction.cc:273]   Camera:          #4 - SIMPLE_RADIAL
+I20241207 19:26:50.039603 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.039621 20728 feature_extraction.cc:280]   Features:        5545
+I20241207 19:26:50.108577 20728 feature_extraction.cc:258] Processed file [10/39]
+I20241207 19:26:50.108676 20728 feature_extraction.cc:261]   Name:            images/0007.png
+I20241207 19:26:50.108692 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.108705 20728 feature_extraction.cc:273]   Camera:          #8 - SIMPLE_RADIAL
+I20241207 19:26:50.108720 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.108740 20728 feature_extraction.cc:280]   Features:        5655
+I20241207 19:26:50.213008 20728 feature_extraction.cc:258] Processed file [11/39]
+I20241207 19:26:50.213110 20728 feature_extraction.cc:261]   Name:            images/0002.png
+I20241207 19:26:50.213126 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.213138 20728 feature_extraction.cc:273]   Camera:          #3 - SIMPLE_RADIAL
+I20241207 19:26:50.213152 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.213177 20728 feature_extraction.cc:280]   Features:        4192
+I20241207 19:26:50.266189 20728 feature_extraction.cc:258] Processed file [12/39]
+I20241207 19:26:50.266305 20728 feature_extraction.cc:261]   Name:            images/0000.png
+I20241207 19:26:50.266320 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.266332 20728 feature_extraction.cc:273]   Camera:          #1 - SIMPLE_RADIAL
+I20241207 19:26:50.266346 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.266364 20728 feature_extraction.cc:280]   Features:        5545
+I20241207 19:26:50.624093 20728 feature_extraction.cc:258] Processed file [13/39]
+I20241207 19:26:50.624175 20728 feature_extraction.cc:261]   Name:            images/0005.png
+I20241207 19:26:50.624188 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.624200 20728 feature_extraction.cc:273]   Camera:          #6 - SIMPLE_RADIAL
+I20241207 19:26:50.624214 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.624232 20728 feature_extraction.cc:280]   Features:        6520
+I20241207 19:26:50.706354 20728 feature_extraction.cc:258] Processed file [14/39]
+I20241207 19:26:50.706465 20728 feature_extraction.cc:261]   Name:            images/0006.png
+I20241207 19:26:50.706480 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:50.706509 20728 feature_extraction.cc:273]   Camera:          #7 - SIMPLE_RADIAL
+I20241207 19:26:50.706522 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:50.706541 20728 feature_extraction.cc:280]   Features:        6752
+I20241207 19:26:51.333804 20728 feature_extraction.cc:258] Processed file [15/39]
+I20241207 19:26:51.333905 20728 feature_extraction.cc:261]   Name:            images/0009.png
+I20241207 19:26:51.333919 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:51.333932 20728 feature_extraction.cc:273]   Camera:          #10 - SIMPLE_RADIAL
+I20241207 19:26:51.333945 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:51.333962 20728 feature_extraction.cc:280]   Features:        4673
+I20241207 19:26:51.435896 20728 feature_extraction.cc:258] Processed file [16/39]
+I20241207 19:26:51.435991 20728 feature_extraction.cc:261]   Name:            images/0008.png
+I20241207 19:26:51.436007 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:51.436022 20728 feature_extraction.cc:273]   Camera:          #9 - SIMPLE_RADIAL
+I20241207 19:26:51.436036 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:51.436055 20728 feature_extraction.cc:280]   Features:        6575
+I20241207 19:26:51.598610 20728 feature_extraction.cc:258] Processed file [17/39]
+I20241207 19:26:51.598690 20728 feature_extraction.cc:261]   Name:            images/0010.png
+I20241207 19:26:51.598706 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:51.598720 20728 feature_extraction.cc:273]   Camera:          #11 - SIMPLE_RADIAL
+I20241207 19:26:51.598815 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:51.598835 20728 feature_extraction.cc:280]   Features:        6008
+I20241207 19:26:51.701305 20728 feature_extraction.cc:258] Processed file [18/39]
+I20241207 19:26:51.701423 20728 feature_extraction.cc:261]   Name:            images/0011.png
+I20241207 19:26:51.701436 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:51.701449 20728 feature_extraction.cc:273]   Camera:          #12 - SIMPLE_RADIAL
+I20241207 19:26:51.701462 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:51.701481 20728 feature_extraction.cc:280]   Features:        6035
+I20241207 19:26:52.203259 20728 feature_extraction.cc:258] Processed file [19/39]
+I20241207 19:26:52.203347 20728 feature_extraction.cc:261]   Name:            images/0012.png
+I20241207 19:26:52.203362 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.203375 20728 feature_extraction.cc:273]   Camera:          #13 - SIMPLE_RADIAL
+I20241207 19:26:52.203397 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.203417 20728 feature_extraction.cc:280]   Features:        6157
+I20241207 19:26:52.230957 20728 feature_extraction.cc:258] Processed file [20/39]
+I20241207 19:26:52.231066 20728 feature_extraction.cc:261]   Name:            images/0013.png
+I20241207 19:26:52.231081 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.231094 20728 feature_extraction.cc:273]   Camera:          #14 - SIMPLE_RADIAL
+I20241207 19:26:52.231108 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.231126 20728 feature_extraction.cc:280]   Features:        6679
+I20241207 19:26:52.670373 20728 feature_extraction.cc:258] Processed file [21/39]
+I20241207 19:26:52.670463 20728 feature_extraction.cc:261]   Name:            images/0014.png
+I20241207 19:26:52.670477 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.670490 20728 feature_extraction.cc:273]   Camera:          #15 - SIMPLE_RADIAL
+I20241207 19:26:52.670503 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.670521 20728 feature_extraction.cc:280]   Features:        7339
+I20241207 19:26:52.746686 20728 feature_extraction.cc:258] Processed file [22/39]
+I20241207 19:26:52.746782 20728 feature_extraction.cc:261]   Name:            images/0015.png
+I20241207 19:26:52.746796 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.746809 20728 feature_extraction.cc:273]   Camera:          #16 - SIMPLE_RADIAL
+I20241207 19:26:52.746822 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.746839 20728 feature_extraction.cc:280]   Features:        7249
+I20241207 19:26:52.871343 20728 feature_extraction.cc:258] Processed file [23/39]
+I20241207 19:26:52.871440 20728 feature_extraction.cc:261]   Name:            images/0017.png
+I20241207 19:26:52.871453 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.871466 20728 feature_extraction.cc:273]   Camera:          #18 - SIMPLE_RADIAL
+I20241207 19:26:52.871480 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.871497 20728 feature_extraction.cc:280]   Features:        5298
+I20241207 19:26:52.984871 20728 feature_extraction.cc:258] Processed file [24/39]
+I20241207 19:26:52.984961 20728 feature_extraction.cc:261]   Name:            images/0016.png
+I20241207 19:26:52.984975 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:52.984989 20728 feature_extraction.cc:273]   Camera:          #17 - SIMPLE_RADIAL
+I20241207 19:26:52.985002 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:52.985020 20728 feature_extraction.cc:280]   Features:        7536
+I20241207 19:26:53.069115 20728 feature_extraction.cc:258] Processed file [25/39]
+I20241207 19:26:53.069213 20728 feature_extraction.cc:261]   Name:            images/0018.png
+I20241207 19:26:53.069277 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:53.069291 20728 feature_extraction.cc:273]   Camera:          #19 - SIMPLE_RADIAL
+I20241207 19:26:53.069304 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:53.069323 20728 feature_extraction.cc:280]   Features:        5519
+I20241207 19:26:53.290776 20728 feature_extraction.cc:258] Processed file [26/39]
+I20241207 19:26:53.290879 20728 feature_extraction.cc:261]   Name:            images/0019.png
+I20241207 19:26:53.290895 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:53.290909 20728 feature_extraction.cc:273]   Camera:          #20 - SIMPLE_RADIAL
+I20241207 19:26:53.290924 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:53.290943 20728 feature_extraction.cc:280]   Features:        6981
+I20241207 19:26:54.055380 20728 feature_extraction.cc:258] Processed file [27/39]
+I20241207 19:26:54.055461 20728 feature_extraction.cc:261]   Name:            images/0020.png
+I20241207 19:26:54.055475 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.055489 20728 feature_extraction.cc:273]   Camera:          #21 - SIMPLE_RADIAL
+I20241207 19:26:54.055502 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.055523 20728 feature_extraction.cc:280]   Features:        6122
+I20241207 19:26:54.229017 20728 feature_extraction.cc:258] Processed file [28/39]
+I20241207 19:26:54.229098 20728 feature_extraction.cc:261]   Name:            images/0021.png
+I20241207 19:26:54.229112 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.229125 20728 feature_extraction.cc:273]   Camera:          #22 - SIMPLE_RADIAL
+I20241207 19:26:54.229137 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.229154 20728 feature_extraction.cc:280]   Features:        7474
+I20241207 19:26:54.348513 20728 feature_extraction.cc:258] Processed file [29/39]
+I20241207 19:26:54.348593 20728 feature_extraction.cc:261]   Name:            images/0025.png
+I20241207 19:26:54.348607 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.348658 20728 feature_extraction.cc:273]   Camera:          #26 - SIMPLE_RADIAL
+I20241207 19:26:54.348672 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.348690 20728 feature_extraction.cc:280]   Features:        4467
+I20241207 19:26:54.352795 20728 feature_extraction.cc:258] Processed file [30/39]
+I20241207 19:26:54.352853 20728 feature_extraction.cc:261]   Name:            sfm/0/cameras.bin
+E20241207 19:26:54.352867 20728 feature_extraction.cc:265] sfm/0/cameras.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:54.352906 20728 feature_extraction.cc:258] Processed file [31/39]
+I20241207 19:26:54.352919 20728 feature_extraction.cc:261]   Name:            sfm/0/images.bin
+E20241207 19:26:54.352931 20728 feature_extraction.cc:265] sfm/0/images.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:54.352953 20728 feature_extraction.cc:258] Processed file [32/39]
+I20241207 19:26:54.352965 20728 feature_extraction.cc:261]   Name:            sfm/0/points3D.bin
+E20241207 19:26:54.352978 20728 feature_extraction.cc:265] sfm/0/points3D.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 19:26:54.446056 20728 feature_extraction.cc:258] Processed file [33/39]
+I20241207 19:26:54.446136 20728 feature_extraction.cc:261]   Name:            images/0024.png
+I20241207 19:26:54.446150 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.446163 20728 feature_extraction.cc:273]   Camera:          #25 - SIMPLE_RADIAL
+I20241207 19:26:54.446179 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.446197 20728 feature_extraction.cc:280]   Features:        7391
+I20241207 19:26:54.491674 20728 feature_extraction.cc:258] Processed file [34/39]
+I20241207 19:26:54.491770 20728 feature_extraction.cc:261]   Name:            images/0022.png
+I20241207 19:26:54.491926 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.491941 20728 feature_extraction.cc:273]   Camera:          #23 - SIMPLE_RADIAL
+I20241207 19:26:54.491954 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.491974 20728 feature_extraction.cc:280]   Features:        6182
+I20241207 19:26:54.576164 20728 feature_extraction.cc:258] Processed file [35/39]
+I20241207 19:26:54.576247 20728 feature_extraction.cc:261]   Name:            images/0026.png
+I20241207 19:26:54.576261 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.576274 20728 feature_extraction.cc:273]   Camera:          #27 - SIMPLE_RADIAL
+I20241207 19:26:54.576289 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.576308 20728 feature_extraction.cc:280]   Features:        6543
+I20241207 19:26:54.591019 20728 feature_extraction.cc:258] Processed file [36/39]
+I20241207 19:26:54.591093 20728 feature_extraction.cc:261]   Name:            images/0023.png
+I20241207 19:26:54.591106 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.591118 20728 feature_extraction.cc:273]   Camera:          #24 - SIMPLE_RADIAL
+I20241207 19:26:54.591130 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.591152 20728 feature_extraction.cc:280]   Features:        6469
+I20241207 19:26:54.784726 20728 feature_extraction.cc:258] Processed file [37/39]
+I20241207 19:26:54.784810 20728 feature_extraction.cc:261]   Name:            images/0027.png
+I20241207 19:26:54.784824 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:54.784836 20728 feature_extraction.cc:273]   Camera:          #28 - SIMPLE_RADIAL
+I20241207 19:26:54.784847 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:54.784864 20728 feature_extraction.cc:280]   Features:        6689
+I20241207 19:26:55.375570 20728 feature_extraction.cc:258] Processed file [38/39]
+I20241207 19:26:55.375634 20728 feature_extraction.cc:261]   Name:            images/0028.png
+I20241207 19:26:55.375646 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:55.375656 20728 feature_extraction.cc:273]   Camera:          #29 - SIMPLE_RADIAL
+I20241207 19:26:55.375667 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:55.375681 20728 feature_extraction.cc:280]   Features:        6622
+I20241207 19:26:55.493948 20728 feature_extraction.cc:258] Processed file [39/39]
+I20241207 19:26:55.494025 20728 feature_extraction.cc:261]   Name:            images/0029.png
+I20241207 19:26:55.494042 20728 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 19:26:55.494060 20728 feature_extraction.cc:273]   Camera:          #30 - SIMPLE_RADIAL
+I20241207 19:26:55.494076 20728 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 19:26:55.494096 20728 feature_extraction.cc:280]   Features:        6608
+I20241207 19:26:55.515440 11976 timer.cc:91] Elapsed time: 0.118 [minutes]
+I20241207 19:26:55.527726 20756 misc.cc:44] 
+==============================================================================
+Feature matching
+==============================================================================
+I20241207 19:26:55.528286 18076 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528388 11860 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528480 11076 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528583 13224 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528664 15760 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528744  4196 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528829  9552 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.528907  3308 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 19:26:55.529028 20756 pairing.cc:168] Generating exhaustive image pairs...
+I20241207 19:26:55.529073 20756 pairing.cc:201] Matching block [1/1, 1/1]
+I20241207 19:27:30.278378 20756 feature_matching.cc:46] in 34.749s
+I20241207 19:27:30.306360 20756 timer.cc:91] Elapsed time: 0.580 [minutes]
+I20241207 19:27:30.337948 13864 incremental_pipeline.cc:237] Loading database
+I20241207 19:27:30.340393 13864 database_cache.cc:66] Loading cameras...
+I20241207 19:27:30.340566 13864 database_cache.cc:76]  30 in 0.000s
+I20241207 19:27:30.340589 13864 database_cache.cc:84] Loading matches...
+I20241207 19:27:30.347953 13864 database_cache.cc:89]  435 in 0.007s
+I20241207 19:27:30.348015 13864 database_cache.cc:105] Loading images...
+I20241207 19:27:30.355706 13864 database_cache.cc:153]  30 in 0.008s (connected 30)
+I20241207 19:27:30.355778 13864 database_cache.cc:164] Loading pose priors...
+I20241207 19:27:30.355920 13864 database_cache.cc:175]  0 in 0.000s
+I20241207 19:27:30.355934 13864 database_cache.cc:184] Building correspondence graph...
+I20241207 19:27:30.430368 13864 database_cache.cc:210]  in 0.074s (ignored 0)
+I20241207 19:27:30.430968 13864 timer.cc:91] Elapsed time: 0.002 [minutes]
+I20241207 19:27:30.434280 13864 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 19:27:30.796140 13864 incremental_pipeline.cc:306] Initializing with image pair #18 and #10
+I20241207 19:27:30.803046 13864 incremental_pipeline.cc:311] Global bundle adjustment
+I20241207 19:27:31.409525 13864 incremental_pipeline.cc:390] Registering image #15 (3)
+I20241207 19:27:31.409584 13864 incremental_pipeline.cc:393] => Image sees 1055 / 5889 points
+I20241207 19:27:32.063802 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:32.475433 13864 incremental_pipeline.cc:390] Registering image #16 (4)
+I20241207 19:27:32.475495 13864 incremental_pipeline.cc:393] => Image sees 2513 / 5781 points
+I20241207 19:27:33.364026 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:33.820172 13864 incremental_pipeline.cc:390] Registering image #14 (5)
+I20241207 19:27:33.820228 13864 incremental_pipeline.cc:393] => Image sees 3133 / 5490 points
+I20241207 19:27:34.894104 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:35.710244 13864 incremental_pipeline.cc:390] Registering image #13 (6)
+I20241207 19:27:35.710299 13864 incremental_pipeline.cc:393] => Image sees 3364 / 5048 points
+I20241207 19:27:37.139261 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:37.965643 13864 incremental_pipeline.cc:390] Registering image #12 (7)
+I20241207 19:27:37.965723 13864 incremental_pipeline.cc:393] => Image sees 3431 / 4877 points
+I20241207 19:27:39.111900 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:39.695796 13864 incremental_pipeline.cc:390] Registering image #11 (8)
+I20241207 19:27:39.695851 13864 incremental_pipeline.cc:393] => Image sees 3100 / 4395 points
+I20241207 19:27:40.278715 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:41.001195 13864 incremental_pipeline.cc:390] Registering image #20 (9)
+I20241207 19:27:41.001247 13864 incremental_pipeline.cc:393] => Image sees 3341 / 5731 points
+I20241207 19:27:41.620254 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:42.396948 13864 incremental_pipeline.cc:390] Registering image #19 (10)
+I20241207 19:27:42.397002 13864 incremental_pipeline.cc:393] => Image sees 3093 / 4600 points
+I20241207 19:27:43.152895 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:43.770564 13864 incremental_pipeline.cc:390] Registering image #21 (11)
+I20241207 19:27:43.770622 13864 incremental_pipeline.cc:393] => Image sees 3382 / 4941 points
+I20241207 19:27:44.338718 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:45.148366 13864 incremental_pipeline.cc:390] Registering image #22 (12)
+I20241207 19:27:45.148421 13864 incremental_pipeline.cc:393] => Image sees 3974 / 5909 points
+I20241207 19:27:45.865460 13864 incremental_pipeline.cc:390] Registering image #17 (13)
+I20241207 19:27:45.865562 13864 incremental_pipeline.cc:393] => Image sees 3483 / 4302 points
+I20241207 19:27:46.512889 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:47.430643 13864 incremental_pipeline.cc:390] Registering image #25 (14)
+I20241207 19:27:47.430698 13864 incremental_pipeline.cc:393] => Image sees 3887 / 5244 points
+I20241207 19:27:48.403032 13864 incremental_pipeline.cc:390] Registering image #27 (15)
+I20241207 19:27:48.403086 13864 incremental_pipeline.cc:393] => Image sees 4107 / 5478 points
+I20241207 19:27:49.256344 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:50.556281 13864 incremental_pipeline.cc:390] Registering image #24 (16)
+I20241207 19:27:50.556333 13864 incremental_pipeline.cc:393] => Image sees 4324 / 5796 points
+I20241207 19:27:51.239567 13864 incremental_pipeline.cc:390] Registering image #26 (17)
+I20241207 19:27:51.239624 13864 incremental_pipeline.cc:393] => Image sees 4092 / 5356 points
+I20241207 19:27:52.151958 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:53.792099 13864 incremental_pipeline.cc:390] Registering image #28 (18)
+I20241207 19:27:53.792153 13864 incremental_pipeline.cc:393] => Image sees 4317 / 5455 points
+I20241207 19:27:55.149917 13864 incremental_pipeline.cc:390] Registering image #29 (19)
+I20241207 19:27:55.149974 13864 incremental_pipeline.cc:393] => Image sees 4260 / 5238 points
+I20241207 19:27:55.946038 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:27:57.587873 13864 incremental_pipeline.cc:390] Registering image #30 (20)
+I20241207 19:27:57.587926 13864 incremental_pipeline.cc:393] => Image sees 4191 / 4939 points
+I20241207 19:27:58.250441 13864 incremental_pipeline.cc:390] Registering image #23 (21)
+I20241207 19:27:58.250495 13864 incremental_pipeline.cc:393] => Image sees 3166 / 3526 points
+I20241207 19:27:58.808835 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:28:00.644282 13864 incremental_pipeline.cc:390] Registering image #9 (22)
+I20241207 19:28:00.644351 13864 incremental_pipeline.cc:393] => Image sees 2799 / 3419 points
+I20241207 19:28:01.294445 13864 incremental_pipeline.cc:390] Registering image #8 (23)
+I20241207 19:28:01.294502 13864 incremental_pipeline.cc:393] => Image sees 3178 / 4780 points
+I20241207 19:28:01.893861 13864 incremental_pipeline.cc:390] Registering image #4 (24)
+I20241207 19:28:01.893914 13864 incremental_pipeline.cc:393] => Image sees 3283 / 4175 points
+I20241207 19:28:02.429468 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:28:04.531475 13864 incremental_pipeline.cc:390] Registering image #7 (25)
+I20241207 19:28:04.531531 13864 incremental_pipeline.cc:393] => Image sees 3499 / 4586 points
+I20241207 19:28:05.281148 13864 incremental_pipeline.cc:390] Registering image #2 (26)
+I20241207 19:28:05.281203 13864 incremental_pipeline.cc:393] => Image sees 2556 / 3320 points
+I20241207 19:28:05.759693 13864 incremental_pipeline.cc:390] Registering image #3 (27)
+I20241207 19:28:05.759748 13864 incremental_pipeline.cc:393] => Image sees 2801 / 3736 points
+I20241207 19:28:06.262203 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:28:10.471737 13864 incremental_pipeline.cc:390] Registering image #5 (28)
+I20241207 19:28:10.471794 13864 incremental_pipeline.cc:393] => Image sees 1807 / 2410 points
+I20241207 19:28:11.374097 13864 incremental_pipeline.cc:390] Registering image #1 (29)
+I20241207 19:28:11.374151 13864 incremental_pipeline.cc:393] => Image sees 2303 / 3239 points
+I20241207 19:28:11.864398 13864 incremental_pipeline.cc:390] Registering image #6 (30)
+I20241207 19:28:11.864451 13864 incremental_pipeline.cc:393] => Image sees 2413 / 3109 points
+I20241207 19:28:12.232995 13864 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 19:28:14.721706 13864 timer.cc:91] Elapsed time: 0.740 [minutes]
+I20241207 19:28:14.783954 13864 demo_colmap.py:run:108] #0 Reconstruction:
+	num_cameras = 30
+	num_images = 30
+	num_reg_images = 30
+	num_points3D = 13673
+	num_observations = 127528
+	mean_track_length = 9.32699
+	mean_observations_per_image = 4250.93
+	mean_reprojection_error = 0.540094
