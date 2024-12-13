@@ -26,7 +26,7 @@ def dynamicProgram(unaryCosts, pairwiseCosts):
     for cPosition in range(1,nPosition):
         # run through each node (element of column)
         for cNode in range(nNodesPerPosition):
-            print(f"Processing position {cPosition}")
+            #print(f"Processing position {cPosition}")
             # now we find the costs of all paths from the previous column to this node
             possPathCosts = np.zeros(nNodesPerPosition)
             for cPrevNode in range(nNodesPerPosition):
@@ -37,12 +37,12 @@ def dynamicProgram(unaryCosts, pairwiseCosts):
                # print(f'{minimumCost[cPrevNode, cPosition - 1]}: ',possPathCosts)
             # Add the unary cost of the current node
             possPathCosts += unaryCosts[cNode, cPosition]
-            print(f"    Path costs: {possPathCosts}")
+           # print(f"    Path costs: {possPathCosts}")
 
             # Find the minimum cost path to the current node
             minCost = np.min(possPathCosts)
             minInd = np.argmin(possPathCosts)
-            print(f"    Min cost = {minCost}, Index = {minInd}")
+           # print(f"    Min cost = {minCost}, Index = {minInd}")
 
             # Update the minimum cost matrix
             minimumCost[cNode, cPosition] = minCost
@@ -72,7 +72,7 @@ def dynamicProgram(unaryCosts, pairwiseCosts):
 
     # TODO: REMOVE THIS WHEN YOU ARE DONE
   #  bestPath = np.floor(np.random.random(nPosition)*nNodesPerPosition)
-    print("MinCost: ", minCost)
+    #print("MinCost: ", minCost)
     return bestPath
 
 
