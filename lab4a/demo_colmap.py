@@ -9,6 +9,7 @@ import enlighten
 import pycolmap 
 from pycolmap import logging
 from visualizer import visualize_reconstruction  # Import the visualization function
+import time
 
 
 def incremental_mapping_with_pbar(database_path, image_path, sfm_path):
@@ -83,15 +84,16 @@ def run():
 
     # Assign individual options
     sift_extraction_options.num_threads = 8
-    sift_extraction_options.max_image_size = 640
-    sift_extraction_options.max_num_features = 1000  # Increased to detect more features
+    sift_extraction_options.max_image_size = 2048 
+    sift_extraction_options.max_num_features = 12000  # Increased to detect more features
 
+    startTime = time.time()
     sift_extraction_options.normalization = pycolmap.Normalization.L1_ROOT
 
     pycolmap.extract_features(database_path, image_path, sift_options=sift_extraction_options)
 
     MatchingOptions = pycolmap.ExhaustiveMatchingOptions()
-    MatchingOptions.block_size = 150
+    MatchingOptions.block_size = 50
     pycolmap.match_exhaustive(database_path,matching_options=MatchingOptions)
 
     if sfm_path.exists():
@@ -99,7 +101,9 @@ def run():
     sfm_path.mkdir(exist_ok=True)
 
     recs = incremental_mapping_with_pbar(database_path, image_path, sfm_path)
+    totalTime = time.time() - startTime
     
+    print(f'Total Elapsed Time: {totalTime}')
     for idx, rec in recs.items():
         logging.info(f"#{idx} {rec.summary()}")
         # Launch visualization for this reconstruction

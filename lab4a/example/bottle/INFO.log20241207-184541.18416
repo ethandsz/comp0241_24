@@ -1,0 +1,750 @@
+Log file created at: 2024/12/07 18:45:41
+Running on machine: DESKTOP-KIV0L0B
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20241207 18:45:41.885264  5532 misc.cc:44] 
+==============================================================================
+Feature extraction
+==============================================================================
+I20241207 18:45:41.887447 18820 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.887526 14912 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.887627 14560 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.887796 20544 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.887929 13660 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.887998 12524 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.888067 12908 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.888168 14772 sift.cc:727] Creating SIFT CPU feature extractor
+I20241207 18:45:41.888850 12568 feature_extraction.cc:258] Processed file [1/30]
+I20241207 18:45:41.888883 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-175945.16744
+E20241207 18:45:41.888895 12568 feature_extraction.cc:265] INFO.log20241207-175945.16744 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.889533 12568 feature_extraction.cc:258] Processed file [2/30]
+I20241207 18:45:41.889546 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-180055.18728
+E20241207 18:45:41.889556 12568 feature_extraction.cc:265] INFO.log20241207-180055.18728 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.889594 12568 feature_extraction.cc:258] Processed file [3/30]
+I20241207 18:45:41.889605 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-182108.10396
+E20241207 18:45:41.889614 12568 feature_extraction.cc:265] INFO.log20241207-182108.10396 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890329 12568 feature_extraction.cc:258] Processed file [4/30]
+I20241207 18:45:41.890344 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-182749.3688
+E20241207 18:45:41.890355 12568 feature_extraction.cc:265] INFO.log20241207-182749.3688 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890377 12568 feature_extraction.cc:258] Processed file [5/30]
+I20241207 18:45:41.890388 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-183441.8868
+E20241207 18:45:41.890398 12568 feature_extraction.cc:265] INFO.log20241207-183441.8868 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890417 12568 feature_extraction.cc:258] Processed file [6/30]
+I20241207 18:45:41.890427 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-183549.3420
+E20241207 18:45:41.890437 12568 feature_extraction.cc:265] INFO.log20241207-183549.3420 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890454 12568 feature_extraction.cc:258] Processed file [7/30]
+I20241207 18:45:41.890464 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-183800.19304
+E20241207 18:45:41.890473 12568 feature_extraction.cc:265] INFO.log20241207-183800.19304 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890603 12568 feature_extraction.cc:258] Processed file [8/30]
+I20241207 18:45:41.890628 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-183916.11912
+E20241207 18:45:41.890639 12568 feature_extraction.cc:265] INFO.log20241207-183916.11912 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.890809 12568 feature_extraction.cc:258] Processed file [9/30]
+I20241207 18:45:41.890831 12568 feature_extraction.cc:261]   Name:            INFO.log20241207-184456.18876
+E20241207 18:45:41.890841 12568 feature_extraction.cc:265] INFO.log20241207-184456.18876 BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.891920 12568 feature_extraction.cc:258] Processed file [10/30]
+I20241207 18:45:41.891941 12568 feature_extraction.cc:261]   Name:            database.db
+E20241207 18:45:41.891951 12568 feature_extraction.cc:265] database.db BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.901979 12568 feature_extraction.cc:258] Processed file [11/30]
+I20241207 18:45:41.902045 12568 feature_extraction.cc:261]   Name:            database.db-shm
+E20241207 18:45:41.902058 12568 feature_extraction.cc:265] database.db-shm BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:41.908581 12568 feature_extraction.cc:258] Processed file [12/30]
+I20241207 18:45:41.908625 12568 feature_extraction.cc:261]   Name:            database.db-wal
+E20241207 18:45:41.908637 12568 feature_extraction.cc:265] database.db-wal BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:42.986757 12568 feature_extraction.cc:258] Processed file [13/30]
+I20241207 18:45:42.986847 12568 feature_extraction.cc:261]   Name:            images/0000.png
+I20241207 18:45:42.986862 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:42.986881 12568 feature_extraction.cc:273]   Camera:          #1 - SIMPLE_RADIAL
+I20241207 18:45:42.986895 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:42.986916 12568 feature_extraction.cc:280]   Features:        2143
+I20241207 18:45:42.997393 12568 feature_extraction.cc:258] Processed file [14/30]
+I20241207 18:45:42.997557 12568 feature_extraction.cc:261]   Name:            images/0001.png
+I20241207 18:45:42.997579 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:42.997594 12568 feature_extraction.cc:273]   Camera:          #2 - SIMPLE_RADIAL
+I20241207 18:45:42.997608 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:42.997632 12568 feature_extraction.cc:280]   Features:        2009
+I20241207 18:45:43.036515 12568 feature_extraction.cc:258] Processed file [15/30]
+I20241207 18:45:43.036616 12568 feature_extraction.cc:261]   Name:            images/0002.png
+I20241207 18:45:43.036631 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.036644 12568 feature_extraction.cc:273]   Camera:          #3 - SIMPLE_RADIAL
+I20241207 18:45:43.036662 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.036759 12568 feature_extraction.cc:280]   Features:        1963
+I20241207 18:45:43.563097 12568 feature_extraction.cc:258] Processed file [16/30]
+I20241207 18:45:43.563186 12568 feature_extraction.cc:261]   Name:            images/0003.png
+I20241207 18:45:43.563204 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.563220 12568 feature_extraction.cc:273]   Camera:          #4 - SIMPLE_RADIAL
+I20241207 18:45:43.563236 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.563255 12568 feature_extraction.cc:280]   Features:        2099
+I20241207 18:45:43.607409 12568 feature_extraction.cc:258] Processed file [17/30]
+I20241207 18:45:43.607498 12568 feature_extraction.cc:261]   Name:            images/0006.png
+I20241207 18:45:43.607512 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.607525 12568 feature_extraction.cc:273]   Camera:          #7 - SIMPLE_RADIAL
+I20241207 18:45:43.607539 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.607558 12568 feature_extraction.cc:280]   Features:        1765
+I20241207 18:45:43.652772 12568 feature_extraction.cc:258] Processed file [18/30]
+I20241207 18:45:43.652899 12568 feature_extraction.cc:261]   Name:            images/0004.png
+I20241207 18:45:43.652913 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.652925 12568 feature_extraction.cc:273]   Camera:          #5 - SIMPLE_RADIAL
+I20241207 18:45:43.652938 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.652956 12568 feature_extraction.cc:280]   Features:        1936
+I20241207 18:45:43.661675 12568 feature_extraction.cc:258] Processed file [19/30]
+I20241207 18:45:43.661783 12568 feature_extraction.cc:261]   Name:            images/0007.png
+I20241207 18:45:43.661797 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.661810 12568 feature_extraction.cc:273]   Camera:          #8 - SIMPLE_RADIAL
+I20241207 18:45:43.661824 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.661843 12568 feature_extraction.cc:280]   Features:        1628
+I20241207 18:45:43.667319 12568 feature_extraction.cc:258] Processed file [20/30]
+I20241207 18:45:43.667364 12568 feature_extraction.cc:261]   Name:            images/0005.png
+I20241207 18:45:43.667377 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:43.667390 12568 feature_extraction.cc:273]   Camera:          #6 - SIMPLE_RADIAL
+I20241207 18:45:43.667403 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:43.667420 12568 feature_extraction.cc:280]   Features:        1885
+I20241207 18:45:43.668567 12568 feature_extraction.cc:258] Processed file [21/30]
+I20241207 18:45:43.668592 12568 feature_extraction.cc:261]   Name:            sfm/0/cameras.bin
+E20241207 18:45:43.668604 12568 feature_extraction.cc:265] sfm/0/cameras.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:43.668648 12568 feature_extraction.cc:258] Processed file [22/30]
+I20241207 18:45:43.668660 12568 feature_extraction.cc:261]   Name:            sfm/0/images.bin
+E20241207 18:45:43.668672 12568 feature_extraction.cc:265] sfm/0/images.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:43.668693 12568 feature_extraction.cc:258] Processed file [23/30]
+I20241207 18:45:43.668705 12568 feature_extraction.cc:261]   Name:            sfm/0/points3D.bin
+E20241207 18:45:43.668717 12568 feature_extraction.cc:265] sfm/0/points3D.bin BITMAP_ERROR: Failed to read the image file format.
+I20241207 18:45:44.122174 12568 feature_extraction.cc:258] Processed file [24/30]
+I20241207 18:45:44.122265 12568 feature_extraction.cc:261]   Name:            images/0010.png
+I20241207 18:45:44.122282 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.122297 12568 feature_extraction.cc:273]   Camera:          #11 - SIMPLE_RADIAL
+I20241207 18:45:44.122316 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.122335 12568 feature_extraction.cc:280]   Features:        1560
+I20241207 18:45:44.177421 12568 feature_extraction.cc:258] Processed file [25/30]
+I20241207 18:45:44.177568 12568 feature_extraction.cc:261]   Name:            images/0009.png
+I20241207 18:45:44.177590 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.177609 12568 feature_extraction.cc:273]   Camera:          #10 - SIMPLE_RADIAL
+I20241207 18:45:44.177629 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.177660 12568 feature_extraction.cc:280]   Features:        1650
+I20241207 18:45:44.179390 12568 feature_extraction.cc:258] Processed file [26/30]
+I20241207 18:45:44.179417 12568 feature_extraction.cc:261]   Name:            images/0008.png
+I20241207 18:45:44.179433 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.179449 12568 feature_extraction.cc:273]   Camera:          #9 - SIMPLE_RADIAL
+I20241207 18:45:44.179488 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.179507 12568 feature_extraction.cc:280]   Features:        1731
+I20241207 18:45:44.618436 12568 feature_extraction.cc:258] Processed file [27/30]
+I20241207 18:45:44.618511 12568 feature_extraction.cc:261]   Name:            images/0011.png
+I20241207 18:45:44.618524 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.618535 12568 feature_extraction.cc:273]   Camera:          #12 - SIMPLE_RADIAL
+I20241207 18:45:44.618545 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.618561 12568 feature_extraction.cc:280]   Features:        1424
+I20241207 18:45:44.627824 12568 feature_extraction.cc:258] Processed file [28/30]
+I20241207 18:45:44.627906 12568 feature_extraction.cc:261]   Name:            images/0012.png
+I20241207 18:45:44.627923 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.627943 12568 feature_extraction.cc:273]   Camera:          #13 - SIMPLE_RADIAL
+I20241207 18:45:44.627962 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.627984 12568 feature_extraction.cc:280]   Features:        1262
+I20241207 18:45:44.639289 12568 feature_extraction.cc:258] Processed file [29/30]
+I20241207 18:45:44.639368 12568 feature_extraction.cc:261]   Name:            images/0013.png
+I20241207 18:45:44.639383 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.639399 12568 feature_extraction.cc:273]   Camera:          #14 - SIMPLE_RADIAL
+I20241207 18:45:44.639413 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.639431 12568 feature_extraction.cc:280]   Features:        1099
+I20241207 18:45:44.666186 12568 feature_extraction.cc:258] Processed file [30/30]
+I20241207 18:45:44.666286 12568 feature_extraction.cc:261]   Name:            images/0014.png
+I20241207 18:45:44.666305 12568 feature_extraction.cc:270]   Dimensions:      1280 x 720
+I20241207 18:45:44.666324 12568 feature_extraction.cc:273]   Camera:          #15 - SIMPLE_RADIAL
+I20241207 18:45:44.666340 12568 feature_extraction.cc:276]   Focal Length:    1536.00px
+I20241207 18:45:44.666364 12568 feature_extraction.cc:280]   Features:        1134
+I20241207 18:45:44.693736  5532 timer.cc:91] Elapsed time: 0.047 [minutes]
+I20241207 18:45:44.700362  3360 misc.cc:44] 
+==============================================================================
+Feature matching
+==============================================================================
+I20241207 18:45:44.701012  8968 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701186  4368 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701284 17436 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701378 20304 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701465 12816 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701547 12320 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701630 13748 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701714  8984 sift.cc:1432] Creating SIFT CPU feature matcher
+I20241207 18:45:44.701866  3360 pairing.cc:168] Generating exhaustive image pairs...
+I20241207 18:45:44.701906  3360 pairing.cc:201] Matching block [1/1, 1/1]
+I20241207 18:45:47.457277  3360 feature_matching.cc:46] in 2.755s
+I20241207 18:45:47.459192  3360 timer.cc:91] Elapsed time: 0.046 [minutes]
+I20241207 18:45:47.486002 14360 incremental_pipeline.cc:237] Loading database
+I20241207 18:45:47.489776 14360 database_cache.cc:66] Loading cameras...
+I20241207 18:45:47.489912 14360 database_cache.cc:76]  15 in 0.000s
+I20241207 18:45:47.489934 14360 database_cache.cc:84] Loading matches...
+I20241207 18:45:47.490482 14360 database_cache.cc:89]  105 in 0.001s
+I20241207 18:45:47.490511 14360 database_cache.cc:105] Loading images...
+I20241207 18:45:47.492403 14360 database_cache.cc:153]  15 in 0.002s (connected 15)
+I20241207 18:45:47.492490 14360 database_cache.cc:164] Loading pose priors...
+I20241207 18:45:47.492617 14360 database_cache.cc:175]  0 in 0.000s
+I20241207 18:45:47.492645 14360 database_cache.cc:184] Building correspondence graph...
+I20241207 18:45:47.496741 14360 database_cache.cc:210]  in 0.004s (ignored 0)
+I20241207 18:45:47.496874 14360 timer.cc:91] Elapsed time: 0.000 [minutes]
+I20241207 18:45:47.498425 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.537801 14360 incremental_pipeline.cc:306] Initializing with image pair #4 and #5
+I20241207 18:45:47.538387 14360 incremental_pipeline.cc:311] Global bundle adjustment
+I20241207 18:45:47.607304 14360 incremental_pipeline.cc:390] Registering image #6 (3)
+I20241207 18:45:47.607368 14360 incremental_pipeline.cc:393] => Image sees 76 / 703 points
+I20241207 18:45:47.607450 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.607460 14360 incremental_pipeline.cc:390] Registering image #8 (3)
+I20241207 18:45:47.607470 14360 incremental_pipeline.cc:393] => Image sees 76 / 645 points
+I20241207 18:45:47.607530 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.607618 14360 incremental_pipeline.cc:390] Registering image #7 (3)
+I20241207 18:45:47.607638 14360 incremental_pipeline.cc:393] => Image sees 65 / 607 points
+I20241207 18:45:47.607703 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.607779 14360 incremental_pipeline.cc:390] Registering image #3 (3)
+I20241207 18:45:47.607798 14360 incremental_pipeline.cc:393] => Image sees 69 / 667 points
+I20241207 18:45:47.607869 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.607879 14360 incremental_pipeline.cc:390] Registering image #10 (3)
+I20241207 18:45:47.607889 14360 incremental_pipeline.cc:393] => Image sees 66 / 533 points
+I20241207 18:45:47.607938 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.607947 14360 incremental_pipeline.cc:390] Registering image #9 (3)
+I20241207 18:45:47.607956 14360 incremental_pipeline.cc:393] => Image sees 55 / 501 points
+I20241207 18:45:47.607999 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608008 14360 incremental_pipeline.cc:390] Registering image #11 (3)
+I20241207 18:45:47.608018 14360 incremental_pipeline.cc:393] => Image sees 66 / 563 points
+I20241207 18:45:47.608066 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608075 14360 incremental_pipeline.cc:390] Registering image #2 (3)
+I20241207 18:45:47.608084 14360 incremental_pipeline.cc:393] => Image sees 49 / 667 points
+I20241207 18:45:47.608135 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608144 14360 incremental_pipeline.cc:390] Registering image #12 (3)
+I20241207 18:45:47.608154 14360 incremental_pipeline.cc:393] => Image sees 49 / 546 points
+I20241207 18:45:47.608196 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608205 14360 incremental_pipeline.cc:390] Registering image #13 (3)
+I20241207 18:45:47.608214 14360 incremental_pipeline.cc:393] => Image sees 40 / 488 points
+I20241207 18:45:47.608252 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608261 14360 incremental_pipeline.cc:390] Registering image #14 (3)
+I20241207 18:45:47.608270 14360 incremental_pipeline.cc:393] => Image sees 42 / 504 points
+I20241207 18:45:47.608307 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608316 14360 incremental_pipeline.cc:390] Registering image #1 (3)
+I20241207 18:45:47.608325 14360 incremental_pipeline.cc:393] => Image sees 37 / 566 points
+I20241207 18:45:47.608372 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608381 14360 incremental_pipeline.cc:390] Registering image #15 (3)
+I20241207 18:45:47.608390 14360 incremental_pipeline.cc:393] => Image sees 37 / 448 points
+I20241207 18:45:47.608426 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.608434 14360 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 18:45:47.656921 14360 incremental_pipeline.cc:390] Registering image #6 (3)
+I20241207 18:45:47.656982 14360 incremental_pipeline.cc:393] => Image sees 76 / 703 points
+I20241207 18:45:47.657053 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657063 14360 incremental_pipeline.cc:390] Registering image #8 (3)
+I20241207 18:45:47.657072 14360 incremental_pipeline.cc:393] => Image sees 76 / 645 points
+I20241207 18:45:47.657128 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657137 14360 incremental_pipeline.cc:390] Registering image #7 (3)
+I20241207 18:45:47.657146 14360 incremental_pipeline.cc:393] => Image sees 65 / 607 points
+I20241207 18:45:47.657197 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657245 14360 incremental_pipeline.cc:390] Registering image #3 (3)
+I20241207 18:45:47.657255 14360 incremental_pipeline.cc:393] => Image sees 69 / 667 points
+I20241207 18:45:47.657310 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657319 14360 incremental_pipeline.cc:390] Registering image #10 (3)
+I20241207 18:45:47.657329 14360 incremental_pipeline.cc:393] => Image sees 66 / 533 points
+I20241207 18:45:47.657373 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657382 14360 incremental_pipeline.cc:390] Registering image #9 (3)
+I20241207 18:45:47.657391 14360 incremental_pipeline.cc:393] => Image sees 55 / 501 points
+I20241207 18:45:47.657432 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657441 14360 incremental_pipeline.cc:390] Registering image #11 (3)
+I20241207 18:45:47.657450 14360 incremental_pipeline.cc:393] => Image sees 66 / 563 points
+I20241207 18:45:47.657496 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657504 14360 incremental_pipeline.cc:390] Registering image #2 (3)
+I20241207 18:45:47.657513 14360 incremental_pipeline.cc:393] => Image sees 49 / 667 points
+I20241207 18:45:47.657562 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657571 14360 incremental_pipeline.cc:390] Registering image #12 (3)
+I20241207 18:45:47.657580 14360 incremental_pipeline.cc:393] => Image sees 49 / 546 points
+I20241207 18:45:47.657621 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657632 14360 incremental_pipeline.cc:390] Registering image #13 (3)
+I20241207 18:45:47.657642 14360 incremental_pipeline.cc:393] => Image sees 40 / 488 points
+I20241207 18:45:47.657679 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657688 14360 incremental_pipeline.cc:390] Registering image #14 (3)
+I20241207 18:45:47.657697 14360 incremental_pipeline.cc:393] => Image sees 42 / 504 points
+I20241207 18:45:47.657733 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657741 14360 incremental_pipeline.cc:390] Registering image #1 (3)
+I20241207 18:45:47.657750 14360 incremental_pipeline.cc:393] => Image sees 37 / 566 points
+I20241207 18:45:47.657795 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.657804 14360 incremental_pipeline.cc:390] Registering image #15 (3)
+I20241207 18:45:47.657813 14360 incremental_pipeline.cc:393] => Image sees 37 / 448 points
+I20241207 18:45:47.657847 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.658084 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.676381 14360 incremental_pipeline.cc:306] Initializing with image pair #6 and #7
+I20241207 18:45:47.676957 14360 incremental_pipeline.cc:311] Global bundle adjustment
+I20241207 18:45:47.760187 14360 incremental_pipeline.cc:390] Registering image #5 (3)
+I20241207 18:45:47.760318 14360 incremental_pipeline.cc:393] => Image sees 85 / 652 points
+I20241207 18:45:47.760443 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.760454 14360 incremental_pipeline.cc:390] Registering image #4 (3)
+I20241207 18:45:47.760463 14360 incremental_pipeline.cc:393] => Image sees 83 / 778 points
+I20241207 18:45:47.760545 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.760556 14360 incremental_pipeline.cc:390] Registering image #11 (3)
+I20241207 18:45:47.760568 14360 incremental_pipeline.cc:393] => Image sees 86 / 563 points
+I20241207 18:45:47.760642 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.760662 14360 incremental_pipeline.cc:390] Registering image #8 (3)
+I20241207 18:45:47.760678 14360 incremental_pipeline.cc:393] => Image sees 79 / 645 points
+I20241207 18:45:47.760928 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.760952 14360 incremental_pipeline.cc:390] Registering image #3 (3)
+I20241207 18:45:47.760964 14360 incremental_pipeline.cc:393] => Image sees 75 / 667 points
+I20241207 18:45:47.761039 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761053 14360 incremental_pipeline.cc:390] Registering image #10 (3)
+I20241207 18:45:47.761065 14360 incremental_pipeline.cc:393] => Image sees 59 / 533 points
+I20241207 18:45:47.761138 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761151 14360 incremental_pipeline.cc:390] Registering image #9 (3)
+I20241207 18:45:47.761162 14360 incremental_pipeline.cc:393] => Image sees 53 / 501 points
+I20241207 18:45:47.761222 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761233 14360 incremental_pipeline.cc:390] Registering image #2 (3)
+I20241207 18:45:47.761246 14360 incremental_pipeline.cc:393] => Image sees 47 / 667 points
+I20241207 18:45:47.761324 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761336 14360 incremental_pipeline.cc:390] Registering image #12 (3)
+I20241207 18:45:47.761349 14360 incremental_pipeline.cc:393] => Image sees 42 / 546 points
+I20241207 18:45:47.761398 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761407 14360 incremental_pipeline.cc:390] Registering image #14 (3)
+I20241207 18:45:47.761417 14360 incremental_pipeline.cc:393] => Image sees 42 / 504 points
+I20241207 18:45:47.761458 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761467 14360 incremental_pipeline.cc:390] Registering image #1 (3)
+I20241207 18:45:47.761476 14360 incremental_pipeline.cc:393] => Image sees 38 / 566 points
+I20241207 18:45:47.761529 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761538 14360 incremental_pipeline.cc:390] Registering image #13 (3)
+I20241207 18:45:47.761548 14360 incremental_pipeline.cc:393] => Image sees 42 / 488 points
+I20241207 18:45:47.761593 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761602 14360 incremental_pipeline.cc:390] Registering image #15 (3)
+I20241207 18:45:47.761611 14360 incremental_pipeline.cc:393] => Image sees 39 / 448 points
+I20241207 18:45:47.761666 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.761691 14360 incremental_pipeline.cc:42] Retriangulation and Global bundle adjustment
+I20241207 18:45:47.831865 14360 incremental_pipeline.cc:390] Registering image #5 (3)
+I20241207 18:45:47.831932 14360 incremental_pipeline.cc:393] => Image sees 85 / 652 points
+I20241207 18:45:47.831993 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832003 14360 incremental_pipeline.cc:390] Registering image #4 (3)
+I20241207 18:45:47.832012 14360 incremental_pipeline.cc:393] => Image sees 83 / 778 points
+I20241207 18:45:47.832076 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832085 14360 incremental_pipeline.cc:390] Registering image #11 (3)
+I20241207 18:45:47.832244 14360 incremental_pipeline.cc:393] => Image sees 86 / 563 points
+I20241207 18:45:47.832296 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832305 14360 incremental_pipeline.cc:390] Registering image #8 (3)
+I20241207 18:45:47.832314 14360 incremental_pipeline.cc:393] => Image sees 79 / 645 points
+I20241207 18:45:47.832367 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832376 14360 incremental_pipeline.cc:390] Registering image #3 (3)
+I20241207 18:45:47.832385 14360 incremental_pipeline.cc:393] => Image sees 75 / 667 points
+I20241207 18:45:47.832477 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832486 14360 incremental_pipeline.cc:390] Registering image #10 (3)
+I20241207 18:45:47.832496 14360 incremental_pipeline.cc:393] => Image sees 59 / 533 points
+I20241207 18:45:47.832673 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832686 14360 incremental_pipeline.cc:390] Registering image #9 (3)
+I20241207 18:45:47.832695 14360 incremental_pipeline.cc:393] => Image sees 53 / 501 points
+I20241207 18:45:47.832739 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832748 14360 incremental_pipeline.cc:390] Registering image #2 (3)
+I20241207 18:45:47.832758 14360 incremental_pipeline.cc:393] => Image sees 47 / 667 points
+I20241207 18:45:47.832807 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832816 14360 incremental_pipeline.cc:390] Registering image #12 (3)
+I20241207 18:45:47.832825 14360 incremental_pipeline.cc:393] => Image sees 42 / 546 points
+I20241207 18:45:47.832865 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832875 14360 incremental_pipeline.cc:390] Registering image #14 (3)
+I20241207 18:45:47.832884 14360 incremental_pipeline.cc:393] => Image sees 42 / 504 points
+I20241207 18:45:47.832920 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832929 14360 incremental_pipeline.cc:390] Registering image #1 (3)
+I20241207 18:45:47.832937 14360 incremental_pipeline.cc:393] => Image sees 38 / 566 points
+I20241207 18:45:47.832983 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.832991 14360 incremental_pipeline.cc:390] Registering image #13 (3)
+I20241207 18:45:47.833000 14360 incremental_pipeline.cc:393] => Image sees 42 / 488 points
+I20241207 18:45:47.833037 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.833045 14360 incremental_pipeline.cc:390] Registering image #15 (3)
+I20241207 18:45:47.833055 14360 incremental_pipeline.cc:393] => Image sees 39 / 448 points
+I20241207 18:45:47.833088 14360 incremental_pipeline.cc:404] => Could not register, trying another image.
+I20241207 18:45:47.833325 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.967989 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.968369 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.968922 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.969148 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.969689 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.969884 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.970417 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.970601 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.971339 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.971525 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.972059 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.972159 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.972704 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.972837 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.973524 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.973667 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.974372 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.974734 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.975528 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.975654 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.976187 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.976284 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.976994 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.977151 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.977809 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.977923 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.978453 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.978547 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.979089 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.979338 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.979899 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.980023 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.980613 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.981149 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.981903 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.982142 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.982818 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.983022 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.983731 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.983899 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.984615 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.984777 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.985486 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.985641 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.986356 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.986588 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.987321 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.987572 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.988320 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.988515 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.989260 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.989399 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.990136 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.990267 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.990964 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.991092 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.991794 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.991952 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.992558 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.992797 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.993379 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.993637 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.994174 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.994297 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.994831 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.994949 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.995478 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.995920 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.996528 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.997047 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.997641 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.997771 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.998317 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.998769 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:47.999312 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:47.999459 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.000011 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.000309 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.000870 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.001089 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.001619 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.001809 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.002342 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.002444 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.002984 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.003096 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.003626 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.003810 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.004386 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.004569 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.005111 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.005224 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.005758 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.005964 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.006499 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.006589 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.007298 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.007529 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.008071 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.008371 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.008939 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.009045 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.009576 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.009708 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.010238 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.010331 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.010887 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.010988 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.011514 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.011612 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.012238 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.012521 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.013058 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.013147 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.013671 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.013983 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.014518 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.014617 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.015141 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.015231 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.015753 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.015841 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.016362 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.016453 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.016977 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.017073 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.017595 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.017687 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.018207 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.018296 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.018827 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.018920 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.019442 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.019535 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.020082 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.020200 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.020740 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.020847 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.021371 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.021462 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.021990 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.022081 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.022605 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.022764 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.023317 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.023418 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.024005 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.024118 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.024654 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.024747 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.025276 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.025393 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.025935 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.026044 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.026575 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.026716 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.027248 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.027359 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.027937 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.028049 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.028580 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.028696 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.029233 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.029337 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.029890 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.030017 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.030549 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.030649 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.031271 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.031488 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.032028 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.032149 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.032706 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.032888 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.033637 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.033864 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.034600 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.034786 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.035486 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.035590 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.036280 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.036437 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.037140 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.037290 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.038055 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.038211 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.038920 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.039061 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.039776 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.039962 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.040897 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.041313 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.041950 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.042134 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.042709 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.042898 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.043423 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.043517 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.044045 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.044137 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.044664 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.044757 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.045282 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.045371 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.045898 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.045992 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.046514 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.046604 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.047129 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.047220 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.047767 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.047872 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.048398 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.048488 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.049018 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.049108 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.049641 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.049786 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.050316 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.050406 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.050956 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.051060 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.051587 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.051683 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.052211 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.052300 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.052874 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.052986 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.053510 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.053600 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.054137 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.054229 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.054788 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.054884 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.055410 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.055502 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.056045 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.056139 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.056665 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.056755 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.057277 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.057369 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.057923 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.058024 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.058547 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.058639 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.059167 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.059256 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.059787 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.059884 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.060407 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.060496 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.061122 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.061274 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.061944 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.062086 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.062615 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.062738 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.063274 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.063365 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.063896 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.063992 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.064524 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.064621 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.065149 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.065240 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.065766 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.065855 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.066378 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.066466 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.066991 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.067081 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.067604 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.067800 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.068346 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.068480 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.069037 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.069145 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.069682 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.069779 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.070307 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.070400 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.070950 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.071049 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.071579 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.071673 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.072208 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.072298 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.072837 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.072928 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.073457 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.073546 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.074079 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.074170 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.074702 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.074795 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.075319 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.075407 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.075951 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.076047 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.076575 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.076669 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.077199 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.077288 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.077821 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.077912 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.078441 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.078578 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.079141 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.079244 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.079808 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.079920 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.080449 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.080543 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.081216 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.081394 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.082062 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.082229 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.082846 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.083037 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.083668 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.083784 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.084314 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.084407 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.084939 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.085052 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.085585 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.085681 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.086215 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.086305 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.086838 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.086930 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.087458 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.087547 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.088099 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.088190 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.088720 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.088811 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.089336 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.089427 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.089966 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.090058 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.090587 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.090693 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.091250 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.091359 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.091904 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.091998 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.092527 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.092617 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.093147 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.093237 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.093768 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.093858 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.094385 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.094474 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.095006 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.095098 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.095630 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.095721 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.096334 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.096426 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.096960 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.097050 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.097579 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.097744 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.098285 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.098381 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.098914 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.099005 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.099530 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.099619 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.100151 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.100241 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.100824 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.101185 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.101735 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.101985 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.102526 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.102636 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.103183 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.103285 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.103816 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.103909 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.104437 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.104528 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.105061 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.105152 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.105681 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.105776 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.106301 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.106390 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.106919 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.107009 14360 incremental_pipeline.cc:282] Finding good initial image pair
+I20241207 18:45:48.107533 14360 incremental_pipeline.cc:286] => No good initial image pair found.
+I20241207 18:45:48.107557 14360 timer.cc:91] Elapsed time: 0.010 [minutes]
+I20241207 18:45:48.111156 14360 demo_colmap.py:run:108] #0 Reconstruction:
+	num_cameras = 2
+	num_images = 2
+	num_reg_images = 2
+	num_points3D = 110
+	num_observations = 220
+	mean_track_length = 2
+	mean_observations_per_image = 110
+	mean_reprojection_error = 0.371644
